@@ -8,6 +8,10 @@ https://code.google.com/p/tortoisegit/
 Visual Studio Community 2013
 
 http://www.visualstudio.com/products/visual-studio-community-vs
+https://visualstudiogallery.msdn.microsoft.com/
+
+Download link Visual Studio Community 2013
+
 http://go.microsoft.com/fwlink/?LinkId=517284
 
 
